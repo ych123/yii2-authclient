@@ -47,6 +47,22 @@
     background-position: 0 -372px;
 }
 
+.auth-icon.qq {
+    background-position: 0 -372px;
+}
+
+.auth-icon.weibo {
+    background-position: 0 -372px;
+}
+
+.auth-icon.douban {
+    background-position: 0 -372px;
+}
+
+.auth-icon.wechat {
+    background-position: 0 -372px;
+}
+
 .auth-link:hover .auth-icon i,
 .auth-link:focus .auth-icon i {
     display: block;
